@@ -13,4 +13,4 @@
 
 ## 5. Co czeka branżę IT w najbliższej przyszłości
 
-## Podsumowanie
+Sztuczna inteligencja znacząco wpływa na kreatywność i produktywność programistów. Narzędzia AI przyspieszają pracę i pomagają automatyzować wiele codziennych zadań. Mimo dynamicznego rozwoju technologii człowiek nadal pozostaje najważniejszym elementem procesu tworzenia oprogramowania.
