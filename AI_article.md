@@ -1,7 +1,5 @@
 
-# Wpływ rozwoju sztucznej inteligencji na kreatywność oraz produktywność programistów
-
-## Wstęp
+Sztuczna inteligencja coraz bardziej wpływa na branżę IT oraz codzienną pracę programistów. Narzędzia oparte na AI pomagają szybciej pisać kod, wykrywać błędy i automatyzować wiele zadań. Dzięki temu programiści mogą skupić się bardziej na kreatywnym rozwiązywaniu problemów.
 
 ## 1. Analiza ekosystemu GitHub Copilot i GitHub Spark
 
